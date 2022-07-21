@@ -1,2 +1,0 @@
-#!/bin/bash
-xargs -n2 | cut -d' ' --fields=1
